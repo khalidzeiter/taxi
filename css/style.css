@@ -1,0 +1,35 @@
+form .field {
+    display: block;
+    padding: .5%;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    background: #ea4c88;
+    color: #fff;
+}
+
+table tr {
+    background: #eee;
+}
+
+table tr:nth-of-type(even) {
+    background: #ddd;
+}
+
+table td {
+    color: #2c3338;
+    padding: 0 5px;
+}
+
+td.control {
+    text-align: center
+}
+
+div.editUsers {
+    width: 80%;
+    margin: 0 auto;
+}
